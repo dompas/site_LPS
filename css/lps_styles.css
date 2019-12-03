@@ -1,0 +1,56 @@
+.lps-gray{
+  background-color: rgb(212, 212, 212);
+}
+.lps-nav-link{
+  font-size: 22px;
+  color: rgba(246, 0, 0, 1.0);
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: rgb(246, 0, 0) !important;
+}
+.lps-nav-link-main{
+  font-size: 22px;
+}
+.lps-title-text{
+  color: rgb(246, 0, 0);
+}
+.lps-text{
+  text-align: justify;
+  font-size: 18px;
+}
+.lps-content{
+  padding-top: 30pt;
+  padding-bottom: 30pt;
+}
+.lps-personnel-text{
+  text-align: left;
+  font-size: 14px;
+}
+.lps-personnel-link{
+  text-decoration: none;
+  color: inherit;
+}
+.lps-personnel-link:hover{
+  text-decoration: none;
+  color: rgba(246, 0, 0, 1.0);
+}
+.lps-researches-panel{
+  margin-bottom: 5px;
+}
+.lps-researches-panel-heading{
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+.lps-researches-panel-collapse{
+  padding: 10px;
+}
+.lps-researches-link{
+  text-decoration: none;
+  color: inherit;
+}
+.lps-researches-link:hover{
+  text-decoration: none;
+  color: rgba(246, 0, 0, 1.0);
+}
