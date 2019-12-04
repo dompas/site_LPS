@@ -54,3 +54,13 @@
   text-decoration: none;
   color: rgba(246, 0, 0, 1.0);
 }
+.lps-team-card{
+  width: 49.6%;
+  display: inline-block;
+  padding: 0px;
+  border: 0px;
+  margin-bottom: 5px;
+}
+.lps-team-card-body{
+  padding: 0px;
+}
